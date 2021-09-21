@@ -68,7 +68,7 @@
 
 > "When something is important enough, you do it even if the odds are not in your favor." - Elon Musk
 
-- 🍀 I'm currently working on a ***JavaFx Project***
+- 🍀 I'm daily working on a ***JavaScripts Practice Problems***
 - 👨‍💻 I'm practicing ***React.js*** to progress further to ***MERN Stack***
 - 📬 You can reach me at: ***truongan1730@gmail.com***
 - 📮 [Resume](https://i.imgur.com/CZDUfgR.jpg)
