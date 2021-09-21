@@ -57,9 +57,9 @@
 
 > “Don’t let the noise of others’ opinions drown out your own inner voice.” - Steve Jobs
 
-- ***Andrew who:*** A second-year Software Engineer Undergraduate
+- ***Andrew who:*** A third-year Software Engineer Undergraduate
 - ***Target:*** A Full-Stack Developer
-- ***Why:*** There will be more chances to keep learning and failing
+- ***Why:*** There will be more to learn, to fail and to progress
 - ***Hobbies:*** Programming, playing piano and composing Indie songs
 - ***Planet:*** Neptune
 <br>
