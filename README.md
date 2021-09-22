@@ -68,7 +68,8 @@
 
 > "When something is important enough, you do it even if the odds are not in your favor." - Elon Musk
 
-- 🍀 I'm daily working on a ***JavaScripts Practice Problems***
+- 🍀 I'm daily working on a ***JavaScript Practice Problems***
+- 📓 I'm learning ***Design Patterns and Princicles***
 - 👨‍💻 I'm practicing ***React.js*** to progress further to ***MERN Stack***
 - 📬 You can reach me at: ***truongan1730@gmail.com***
 - 📮 [Resume](https://i.imgur.com/CZDUfgR.jpg)
