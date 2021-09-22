@@ -85,12 +85,6 @@
 
 <div align="center">
 
-  _Growing in progress..._
-  
-  <br>
-  <img align="center" src="https://media.giphy.com/media/feN0YJbVs0fwA/giphy.gif" width="250px">
-</div>
-
 
 
 
