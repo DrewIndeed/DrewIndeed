@@ -72,7 +72,6 @@
 - 📓 I'm learning ***Design Patterns and Princicles***
 - 👨‍💻 I'm practicing ***React.js*** to progress further to ***MERN Stack***
 - 📬 You can reach me at: ***truongan1730@gmail.com***
-- 📮 [Resume](https://i.imgur.com/CZDUfgR.jpg)
 <br>
 
 <h2>Quickly about my Status &nbsp;<img src="https://media.giphy.com/media/VTErXIe8Q2kf0vMk11/giphy.gif" width="25px"></h2>
