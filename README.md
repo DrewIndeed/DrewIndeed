@@ -1,4 +1,4 @@
-<h1 align="center"> Welcome everyone, I'm <a href="https://www.linkedin.com/in/truonganln/" target="_blank">Andrew Le.</a> Let's grow together 🚀</h1>
+<h1 align="center"> Xin chao, I'm <a href="https://www.linkedin.com/in/truonganln/" target="_blank">Andrew.&nbsp</a>Let's grow together! 🚀</h1>
 
 <br>
 <div align="center">
@@ -53,39 +53,35 @@
 </div>
 <br>
 
-<h2>Quickly about Myself &nbsp;<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
+<h2>Andrew who? &nbsp;<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
 
-<img align="right" src="https://media.giphy.com/media/UqZ4imFIoljlr5O2sM/giphy.gif" width="250px">
-
-> “Don’t let the noise of others’ opinions drown out your own inner voice.” - Steve Jobs
-
-- ***Andrew who:*** A third-year Software Engineer Undergraduate
-- ***Target:*** A Full-Stack Developer
-- ***Why:*** There will be more to learn, to fail and to progress
-- ***Hobbies:*** Programming, playing piano and composing Indie songs
-- ***Planet:*** Neptune
-<br>
-
-<h2>Quickly at Present &nbsp;<img src="https://media.giphy.com/media/26ybwwiZmci3DJdYs/giphy.gif" width="40px"></h2>
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300px">
 
 > "When something is important enough, you do it even if the odds are not in your favor." - Elon Musk
 
-- 🍀 I'm daily working on a ***JavaScript Practice Problems***
-- 📓 I'm learning ***Design Patterns and Princicles***
-- 👨‍💻 I'm practicing ***React.js*** to progress further to ***MERN Stack***
-- 📬 You can reach me at: ***truongan1730@gmail.com***
+🎓 ***Major ------*** Software Engineering - Junior Year<br>
+🎯 ***Target -----*** Becoming a Full-stack Developer<br>
+🔬 ***Why -------*** Simply enjoy the Front-end and terrify about the Back<br>
+❤️ ***Hobbies ---*** Coding and soccer for life<br>
+🔵 ***Planet -----*** Neptune
 <br>
 
-<h2>Quickly about my Status &nbsp;<img src="https://media.giphy.com/media/VTErXIe8Q2kf0vMk11/giphy.gif" width="25px"></h2>
+<h2> What am I doing with my time? &nbsp;<img src="https://media.giphy.com/media/26ybwwiZmci3DJdYs/giphy.gif" width="40px"></h2>
+
+> “Don’t let the noise of others’ opinions drown out your own inner voice.” - Steve Jobs
+
+🍀 I'm daily practicing ***JavaScript*** and ***React.js***<br>
+📕 I'm learning ***Android Developement*** this semester<br>
+📬 You can reach me at: ***truongan1730@gmail.com***
+<br>
+
+<h2>Just numbers &nbsp;<img src="https://media.giphy.com/media/VTErXIe8Q2kf0vMk11/giphy.gif" width="25px"></h2>
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DrewIndeed&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
   <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DrewIndeed&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
 <br>
-<hr>
-
-<div align="center">
 
 
 
