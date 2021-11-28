@@ -71,15 +71,15 @@
 > “Don’t let the noise of others’ opinions drown out your own inner voice.” - Steve Jobs
 
 🍀 I'm daily practicing ***JavaScript*** and ***React.js***<br>
-📕 I'm learning ***Android Developement*** this semester<br>
+📕 I'm learning ***Android Development*** this semester<br>
 📬 You can reach me at: ***truongan1730@gmail.com***
 <br>
 
 <h2>Just numbers &nbsp;<img src="https://media.giphy.com/media/VTErXIe8Q2kf0vMk11/giphy.gif" width="25px"></h2>
 
 <div align=""center>
-<img align="center" height="120em" src="https://github-readme-stats.vercel.app/api?username=DrewIndeed&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />  &nbsp;&nbsp;&nbsp;&nbsp;
-<img align="center" height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DrewIndeed&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+<img align="center" height="150em" src="https://github-readme-stats.vercel.app/api?username=DrewIndeed&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />  &nbsp;&nbsp;&nbsp;&nbsp;
+<img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DrewIndeed&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </div>
 
 <br>
