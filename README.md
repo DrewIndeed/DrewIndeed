@@ -1,8 +1,44 @@
 <h1 align="center"> Xin chao, I'm <a href="https://www.linkedin.com/in/truonganln/" target="_blank">Andrew.&nbsp</a>Let's grow together! 🚀</h1>
 
 <br>
-<div align="center">
 
+<h2>Andrew who? &nbsp;<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
+
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="275px">
+
+> "When something is important enough, you do it even if the odds are not in your favor." - Elon Musk
+
+🎓 ***Major ------*** Software Engineering - Junior Year<br>
+🎯 ***Target -----*** Becoming a Full-stack Developer<br>
+🔬 ***Why -------*** Simply enjoy the Front-end and terrify about the Back<br>
+❤️ ***Hobbies ---*** Coding and soccer for life<br>
+🔵 ***Planet -----*** Neptune<br>
+
+<br> 
+
+<h2> What am I doing with my time? &nbsp;<img src="https://media.giphy.com/media/26ybwwiZmci3DJdYs/giphy.gif" width="40px"></h2>
+
+> “Don’t let the noise of others’ opinions drown out your own inner voice.” - Steve Jobs
+
+🍀 I'm daily practicing ***JavaScript*** and ***React.js***<br>
+📕 I'm learning ***Android Development*** this semester<br>
+📬 You can reach me at: ***truongan1730@gmail.com***<br>
+
+<br>
+
+<h2>Just numbers &nbsp;<img src="https://media.giphy.com/media/VTErXIe8Q2kf0vMk11/giphy.gif" width="25px"></h2>
+
+<div align=""center>
+<img align="center" height="150em" src="https://github-readme-stats.vercel.app/api?username=DrewIndeed&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />  &nbsp;&nbsp;&nbsp;&nbsp;
+<img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DrewIndeed&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+</div>
+
+<br>
+<br>
+<hr>
+
+<div align="center">
+  
   ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
   ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -51,42 +87,3 @@
   ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
   
 </div>
-<br>
-
-<h2>Andrew who? &nbsp;<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
-
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250px">
-
-> "When something is important enough, you do it even if the odds are not in your favor." - Elon Musk
-
-🎓 ***Major ------*** Software Engineering - Junior Year<br>
-🎯 ***Target -----*** Becoming a Full-stack Developer<br>
-🔬 ***Why -------*** Simply enjoy the Front-end and terrify about the Back<br>
-❤️ ***Hobbies ---*** Coding and soccer for life<br>
-🔵 ***Planet -----*** Neptune
-<br>
-
-<h2> What am I doing with my time? &nbsp;<img src="https://media.giphy.com/media/26ybwwiZmci3DJdYs/giphy.gif" width="40px"></h2>
-
-> “Don’t let the noise of others’ opinions drown out your own inner voice.” - Steve Jobs
-
-🍀 I'm daily practicing ***JavaScript*** and ***React.js***<br>
-📕 I'm learning ***Android Development*** this semester<br>
-📬 You can reach me at: ***truongan1730@gmail.com***
-<br>
-
-<h2>Just numbers &nbsp;<img src="https://media.giphy.com/media/VTErXIe8Q2kf0vMk11/giphy.gif" width="25px"></h2>
-
-<div align=""center>
-<img align="center" height="150em" src="https://github-readme-stats.vercel.app/api?username=DrewIndeed&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />  &nbsp;&nbsp;&nbsp;&nbsp;
-<img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DrewIndeed&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-</div>
-
-<br>
-
-
-
-
-
-
-
