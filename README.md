@@ -77,10 +77,10 @@
 
 <h2>Just numbers &nbsp;<img src="https://media.giphy.com/media/VTErXIe8Q2kf0vMk11/giphy.gif" width="25px"></h2>
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DrewIndeed&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<div align="center">
+  <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=DrewIndeed&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
   <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DrewIndeed&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-</p>
+</div>
 <br>
 
 
