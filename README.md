@@ -67,7 +67,7 @@
 <h2 align="center"></h2>
 
 <div align="center">
-  <a href="https://app.daily.dev/DrewIndeed"><img src="https://api.daily.dev/devcards/16484563cf504db8902424b1c5c072cb.png?r=q8p" width="400" alt="Andrew Le Nguyen's Dev Card"/></a>
+  <a href="https://app.daily.dev/DrewIndeed"><img src="https://api.daily.dev/devcards/16484563cf504db8902424b1c5c072cb.png?r=fea" width="400" alt="Andrew Le Nguyen's Dev Card"/></a>
 </div>
 
 <br> 
