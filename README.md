@@ -66,6 +66,14 @@
 
 <h2 align="center"></h2>
 
+<div align="center">
+  <a href="https://app.daily.dev/DrewIndeed"><img src="https://api.daily.dev/devcards/16484563cf504db8902424b1c5c072cb.png?r=q8p" width="400" alt="Andrew Le Nguyen's Dev Card"/></a>
+</div>
+
+<br> 
+
+<h2 align="center"></h2>
+
 <p align="center" width="100%">
   <img width="40%" src="https://github-readme-stats.vercel.app/api?username=DrewIndeed&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
   <img width="40%" height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DrewIndeed&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
@@ -87,8 +95,7 @@
 
 > “Don’t let the noise of others’ opinions drown out your own inner voice.” - Steve Jobs
 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;🍀 I'm daily practicing ***JavaScript*** and ***React.js***<br>
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;📕 I'm learning ***Android Development*** this semester<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;🍀 I'm daily practicing ***JavaScript*** and ***ReactJS***<br>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;📬 You can reach me at: ***truongan1730@gmail.com***<br>
 <br>
 
