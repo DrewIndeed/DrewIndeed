@@ -1,6 +1,8 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=drewindeed)
 
-<img src="https://media.giphy.com/media/cvmugq5cuJ4nC/giphy.gif" width="800">
+<div align="center">
+<img src="https://media.giphy.com/media/3oriO04qxVReM5rJEA/giphy.gif" width="500">
+</div>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?width=800&color=ff7ac6&lines=Andrew's+typing+to+you+right+now,+GitHub+Traveller+!;Just+kidding,+he's+coding+👨‍💻)](https://git.io/typing-svg)
 
