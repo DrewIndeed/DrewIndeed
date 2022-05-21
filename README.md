@@ -62,4 +62,16 @@ let WhoIsIt: Developer = {
     
 </div>
 
+<hr>
+    
+<h6 style="color:#ff7ac6">Have worked with</h6>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=androidstudio,aws,bootstrap,c,cpp,codepen,html,css,django,dynamodb,eclipse,docker,express,figma,firebase,gcp,git,github,graphql,heroku,idea,java,js,jquery,mongodb,mysql,nextjs,nodejs,php,postgres,py,react,redis,redux,sass,tailwind,ts,vscode&perline=19" />
+  </a>
+</p>
+
+
+
 
