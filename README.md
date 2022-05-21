@@ -1,5 +1,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=drewindeed)
 
+<img src="https://media.giphy.com/media/cvmugq5cuJ4nC/giphy.gif" width="800">
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?width=800&color=ff7ac6&lines=Andrew's+typing+to+you+right+now,+GitHub+Traveller+!;Just+kidding,+he's+coding+👨‍💻)](https://git.io/typing-svg)
 
 ```typescript
@@ -47,7 +49,7 @@ let WhoIsIt: Developer = {
 <br>    
     
 <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100"><img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="100">
-
+    
 </div>
 
 
