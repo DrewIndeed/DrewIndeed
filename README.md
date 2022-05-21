@@ -24,7 +24,6 @@ let WhoIsIt: Developer = {
 }
 ```
 <br>
-<br>
 
 <div align="center">
     
