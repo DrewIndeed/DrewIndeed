@@ -1,9 +1,5 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=drewindeed)
 
-<div align="center">
-<img src="https://media.giphy.com/media/3oriO04qxVReM5rJEA/giphy.gif" width="500">
-</div>
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?width=800&color=ff7ac6&lines=Andrew's+typing+to+you+right+now,+GitHub+Traveller+!;Just+kidding,+he's+coding+👨‍💻)](https://git.io/typing-svg)
 
 ```typescript
@@ -31,22 +27,35 @@ let WhoIsIt: Developer = {
 <br>
 
 <div align="center">
+    
+        
+<h3 style="color:#ff7ac6">Coffee is fuel</h3>
+    
+<br>
 
-[![DrewIndeed's Activity Graph](https://activity-graph.herokuapp.com/graph?username=drewindeed&custom_title=DrewIndeed's%20Activity%20Graph&hide_border=true&bg_color=282a36&color=ff7ac6&line=4cf079&point=fff)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<div align="center">
+<img src="https://media.giphy.com/media/3oriO04qxVReM5rJEA/giphy.gif" width="300">
+</div>
+
+<br>
+<br>
+
+
+[![DrewIndeed's github trophy](https://github-profile-trophy.vercel.app/?username=drewindeed&column=4&margin-w=15&margin-h=15&theme=dracula&title=Commits,PullRequest,Repositories,Followers)](https://github.com/ryo-ma/github-profile-trophy)
  
 <br>
     
-<h3 style="color:#ff7ac6">My GitHub Achievements</h3>
+<h3 style="color:#ff7ac6">In the last 31 days of my very existence</h3>
     
 <br>
-
-[![DrewIndeed's github trophy](https://github-profile-trophy.vercel.app/?username=drewindeed&column=4&margin-w=15&margin-h=15&theme=dracula&title=Commits,PullRequest,Repositories,Followers)](https://github.com/ryo-ma/github-profile-trophy)
+    
+[![DrewIndeed's Activity Graph](https://activity-graph.herokuapp.com/graph?username=drewindeed&custom_title=DrewIndeed's%20Activity%20Graph&hide_border=true&bg_color=282a36&color=ff7ac6&line=4cf079&point=fff)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ![DrewIndeed's GitHub stats](https://github-readme-stats.vercel.app/api?username=DrewIndeed&bg_color=282a36&title_color=ff7ac6&text_color=fff)
 
 <br>
     
-<h3 style="color:#ff7ac6">My Main Toolbelt</h3>
+<h3 style="color:#ff7ac6">I'm breathing for</h3>
     
 <br>    
     
