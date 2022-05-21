@@ -18,7 +18,7 @@ let WhoIsIt: Developer = {
     music_instruments: ["Guitar", 'Piano'],
     
     learning: {
-        _caution: 'An endless list for sure',
+        _caution: 'An endless list for sure so will try to make it neat',
         currently: ['GraphQL', 'Swift 5']
     }
 }
