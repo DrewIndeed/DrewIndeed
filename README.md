@@ -4,7 +4,7 @@
 
 ```typescript
 let WhoIsIt: Developer = {
-    _referred: 'Andrew'
+    _referred: 'Andrew',
     name: 'Le Nguyen Truong An',
     breathing_at: 'Ho Chi Minh, Vietnam',
     
@@ -13,9 +13,9 @@ let WhoIsIt: Developer = {
     company: 'New Ocean Inc. - Information System',
     
     interests: ['Isometric Design', 'Real-Time Systems', 'DevOps'],
-    technical_background: ['Modules Design', 'UI/UX Design', 'SEO']
-    hobbies: ["Soccer", "Marvel", "Only-CSS Effects"]
-    music_instruments: ["Guitar", 'Piano']
+    technical_background: ['Modules Design', 'UI/UX Design', 'SEO'],
+    hobbies: ["Soccer", "Marvel", "Only-CSS Effects"],
+    music_instruments: ["Guitar", 'Piano'],
     
     learning: {
         _caution: 'An endless list for sure',
