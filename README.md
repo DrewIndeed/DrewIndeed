@@ -68,7 +68,7 @@ let WhoIsIt: Developer = {
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,aws,bootstrap,c,cpp,codepen,html,css,django,dynamodb,eclipse,docker,express,figma,firebase,gcp,git,github,graphql,heroku,idea,java,js,jquery,mongodb,mysql,nextjs,nodejs,php,postgres,py,react,redis,redux,sass,tailwind,ts,vscode&perline=19" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,aws,bootstrap,c,cpp,codepen,html,css,django,dynamodb,docker,express,figma,firebase,gcp,git,graphql,heroku,idea,java,js,jquery,mongodb,mysql,nextjs,nodejs,php,postgres,py,react,redis,redux,sass,tailwind,ts,vscode&perline=12" />
   </a>
 </p>
 
