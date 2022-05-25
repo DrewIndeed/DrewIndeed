@@ -44,12 +44,15 @@ let WhoIsIt: Developer = {
  
 <br>
     
-<h3 style="color:#ff7ac6">In the last 31 days of my very existence</h3>
+<h3 style="color:#ff7ac6">My stats</h3>
     
 <br>
-    
-[![DrewIndeed's Activity Graph](https://activity-graph.herokuapp.com/graph?username=drewindeed&custom_title=DrewIndeed's%20Activity%20Graph&hide_border=true&bg_color=282a36&color=ff7ac6&line=4cf079&point=fff)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+<!-- [![DrewIndeed's Activity Graph](https://activity-graph.herokuapp.com/graph?username=drewindeed&custom_title=DrewIndeed's%20Activity%20Graph&hide_border=true&bg_color=282a36&color=ff7ac6&line=4cf079&point=fff)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
+    
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drewindeed&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+    
+    
 ![DrewIndeed's GitHub stats](https://github-readme-stats.vercel.app/api?username=DrewIndeed&bg_color=282a36&title_color=ff7ac6&text_color=fff)
 
 <br>
