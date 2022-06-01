@@ -1,6 +1,6 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=drewindeed)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?width=800&color=ff7ac6&lines=Andrew's+typing+to+you+right+now,+GitHub+Traveller+!;Just+kidding,+he's+coding+👨‍💻)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?width=800&color=48f542&lines=Hi+I'm+Andrew.+Let's+grow+together!+👨‍💻)](https://git.io/typing-svg)
 
 ```typescript
 let WhoIsIt: Developer = {
@@ -27,23 +27,6 @@ let WhoIsIt: Developer = {
 
 <div align="center">
     
-        
-<h3 style="color:#ff7ac6">Coffee is fuel</h3>
-    
-<br>
-
-<div align="center">
-<img src="https://media.giphy.com/media/3oriO04qxVReM5rJEA/giphy.gif" width="300">
-</div>
-
-<br>
-<br>
-
-
-[![DrewIndeed's github trophy](https://github-profile-trophy.vercel.app/?username=drewindeed&column=4&margin-w=15&margin-h=15&theme=dracula&title=Commits,PullRequest,Repositories,Followers)](https://github.com/ryo-ma/github-profile-trophy)
- 
-<br>
-    
 <h3 style="color:#ff7ac6">In the last 31 days of my existence</h3>
     
 <br>
@@ -57,11 +40,29 @@ let WhoIsIt: Developer = {
 
 <br>
     
+[![DrewIndeed's github trophy](https://github-profile-trophy.vercel.app/?username=drewindeed&column=4&margin-w=15&margin-h=15&theme=dracula&title=Commits,PullRequest,Repositories,Followers)](https://github.com/ryo-ma/github-profile-trophy)
+ 
+<br>
+    
 <h3 style="color:#ff7ac6">I'm breathing for</h3>
     
 <br>    
     
 <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100"><img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="100">
+    
+    
+<br>
+
+<h3 style="color:#ff7ac6">Coffee is my fuel</h3>
+    
+<br>
+
+<div align="center">
+<img src="https://media.giphy.com/media/3oriO04qxVReM5rJEA/giphy.gif" width="300">
+</div>
+
+<br>
+<br>
     
 </div>
 
