@@ -99,12 +99,12 @@ const WhoIAm: Developer = {
 
 <div align="center">
     
-[![My last 31 days](https://activity-graph.herokuapp.com/graph?username=drewindeed&custom_title=My%20Last%2031%20Days&hide_border=false&bg_color=282a36&color=fcf405&line=4cf079&point=fff&radius=5)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![My last 31 days](https://activity-graph.herokuapp.com/graph?username=drewindeed&custom_title=My%20Last%2031%20Days&hide_border=false&bg_color=0d0c14&color=f5d545&line=03ffee&point=03ff18&radius=8)](https://github.com/ashutosh00710/github-readme-activity-graph)
     
 <p align="center">
 <a href="https://github.com/DrewIndeed">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=drewindeed&show_icons=true&include_all_commits=true&count_private=true&bg_color=282a36&title_color=fcf405&text_color=fff"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=drewindeed&layout=compact&langs_count=7&bg_color=282a36&title_color=fcf405&text_color=fff&exclude_repo=TeleFix,OOP_20201B,cosc2657-android-development,spring-data-jpa-tutorial&hide=java"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=drewindeed&show_icons=true&include_all_commits=true&count_private=true&bg_color=0d0c14&title_color=f5d545&text_color=fff"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=drewindeed&layout=compact&langs_count=7&bg_color=0d0c14&title_color=f5d545&text_color=fff&exclude_repo=TeleFix,OOP_20201B,cosc2657-android-development,spring-data-jpa-tutorial&hide=java"/>
 </a>
 </p>
 
