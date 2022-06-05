@@ -3,7 +3,7 @@ svg) -->
 
 <div align="center">
     
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=368&section=header&text=Hi,%20I'm%20Andrew%20🙋🏻‍♂️&fontSize=90&animation=fadeIn&fontAlignY=36&desc=JavaScript%20and%20Web%20Development%20Enthusiast&descAlignY=55&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=368&section=header&text=Hi,%20I'm%20Andrew%20🙋🏻‍♂️&fontSize=90&animation=fadeIn&fontAlignY=36&desc=JavaScript%20Programmer%20•%20Frontend%20Developer&descAlignY=55&descAlign=65)
 
 </div>
 
