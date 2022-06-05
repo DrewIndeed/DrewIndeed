@@ -1,5 +1,3 @@
-![](https://visitor-badge.glitch.me/badge?page_id=drewindeed)
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?width=800&color=00e02d&lines=Hi+I'm+Andrew.+Let's+grow+together!+👨‍💻)](https://git.io/typing-svg)
 
 ```typescript
