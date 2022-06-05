@@ -1,8 +1,28 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?width=800&color=00e02d&lines=Hi+I'm+Andrew.+Let's+grow+together!+👨‍💻)](https://git.io/typing-svg)
+<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?width=800&color=00e02d&lines=Hi+I'm+Andrew.+Let's+grow+together!+👨‍💻)](https://git.io/typing-
+svg) -->
 
+<div align="center">
+    
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=368&section=header&text=Hi,%20I'm%20Andrew%20🙋🏻‍♂️&fontSize=90&animation=fadeIn&fontAlignY=36&desc=JavaScript%20and%20Web%20Development%20Enthusiast&descAlignY=55&descAlign=62)
+
+</div>
+
+<br>
+
+<hr>
+
+> “Success is getting what you want, happiness is wanting what you get.” ― W. P. Kinsella
+
+<br>
+
+<div align="right">
+    
+***A little bit about me***
+    
+</div>
+    
 ```typescript
 const WhoIAm: Developer = {
-    _referred_as: 'Andrew',
     name: 'Le Nguyen Truong An',  
     
     education: 'Bachelor of Software Engineering',
@@ -14,6 +34,7 @@ const WhoIAm: Developer = {
     technical_interests: ['Real-Time Systems', 'DevOps', 'Only-CSS Effects'],
     hobbies: ['Soccer', 'Marvel', 'Astronomy'],
     music: ['Guitar', 'Piano'],
+    fuel: 'Coffee ☕️ for life',
     
     learning: {
         _caution: 'An endless list for sure so will try to make it neat',
@@ -25,9 +46,37 @@ const WhoIAm: Developer = {
 
 <hr>
 
+> “To ignite your life you must focus on one thing long enough for it to catch fire.” - Gary W. Keller
+    
+<br>   
+
+<div align="right">
+    
+***My major skills***
+    
+</div>
+
+<div align="center">
+   
+<img src="https://media3.giphy.com/media/XAxylRMCdpbEWUAvr8/200w.webp" width="100">
+<img src="https://media3.giphy.com/media/fsEaZldNC8A1PJ3mwp/200w.webp" width="100">
+<img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100">
+<img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100">
+<img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/200w.webp" width="100">
+    
+</div>
+
+<hr>
+
 > "When something is important enough, you do it even if the odds are not in your favor." - Elon Musk
 
 <br>
+
+<div align="right">
+    
+***I have worked with***
+    
+</div>
     
 <p align="center">
   <a href="https://skillicons.dev">
@@ -39,44 +88,37 @@ const WhoIAm: Developer = {
 
 > “Don’t let the noise of others’ opinions drown out your own inner voice.” - Steve Jobs
 
+<br>
+
+<div align="right">
+    
+***My GitHub stats***
+    
+</div>
+
+
 <div align="center">
     
-<br>
+[![My last 31 days](https://activity-graph.herokuapp.com/graph?username=drewindeed&custom_title=My%20Last%2031%20Days&hide_border=false&bg_color=282a36&color=fcf405&line=4cf079&point=fff&radius=5)](https://github.com/ashutosh00710/github-readme-activity-graph)
     
-[![My last 31 days](https://activity-graph.herokuapp.com/graph?username=drewindeed&custom_title=Andrew%20Le%20Nguyen's%20Last%2031%20Days&hide_border=false&bg_color=282a36&color=fcf405&line=4cf079&point=fff&radius=5)](https://github.com/ashutosh00710/github-readme-activity-graph)
-    
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drewindeed&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
-    
-    
-![DrewIndeed's GitHub stats](https://github-readme-stats.vercel.app/api?username=DrewIndeed&bg_color=282a36&title_color=fcf405&text_color=fff)
+<p align="center">
+<a href="https://github.com/DrewIndeed">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=drewindeed&show_icons=true&include_all_commits=true&count_private=true&bg_color=282a36&title_color=fcf405&text_color=fff"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=drewindeed&layout=compact&langs_count=7&bg_color=282a36&title_color=fcf405&text_color=fff&exclude_repo=TeleFix,OOP_20201B,cosc2657-android-development,spring-data-jpa-tutorial&hide=java"/>
+</a>
+</p>
 
 <br>
     
-[![DrewIndeed's github trophy](https://github-profile-trophy.vercel.app/?username=drewindeed&column=4&margin-w=15&margin-h=15&theme=dracula&title=Commits,PullRequest,Repositories,Followers)](https://github.com/ryo-ma/github-profile-trophy)
+[![DrewIndeed's github trophy](https://github-profile-trophy.vercel.app/?username=drewindeed&column=4&margin-w=15&margin-h=15&theme=juicyfresh&title=Commits,PullRequest,Repositories,Followers)]([https://github.com/ryo-ma/github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy))
 
 </div>
     
 <br>
-    
-<hr>
 
-> “To ignite your life you must focus on one thing long enough for it to catch fire.” - Gary W. Keller
-    
-<br>   
 
 <div align="center">
     
-    
-    
-<img src="https://media3.giphy.com/media/XAxylRMCdpbEWUAvr8/200w.webp" width="100">
-<img src="https://media3.giphy.com/media/fsEaZldNC8A1PJ3mwp/200w.webp" width="100">
-<img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100">
-<img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100">
-<img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/200w.webp" width="100">
+***...***
     
 </div>
-    
-
-
-
-
