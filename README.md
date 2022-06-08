@@ -1,6 +1,12 @@
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?width=800&color=00e02d&lines=Hi+I'm+Andrew.+Let's+grow+together!+👨‍💻)](https://git.io/typing-
 svg) -->
 
+<div align="right">
+    
+***Try to change my gradient colors by refreshing ^^***
+    
+</div>
+
 <div align="center">
     
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=368&section=header&text=Hi,%20I'm%20Andrew%20🙋🏻‍♂️&fontSize=90&animation=fadeIn&fontAlignY=36&desc=JavaScript%20Programmer%20•%20Frontend%20Developer&descAlignY=55&descAlign=65)
