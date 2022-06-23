@@ -36,7 +36,7 @@ const WhoIAm: Developer = {
     current_role: 'Frontend Developer Intern',
     location: 'Ho Chi Minh, Vietnam',
     
-    technical_background: ['HTML/CSS/JS Web Development', 'UI/UX Design'],
+    technical_background: ['HTML/CSS/JS Web Development', 'UI/UX Design', 'ReactJS', 'React Native', 'NextJS'],
     technical_interests: ['Real-Time Systems', 'DevOps', 'Only-CSS Effects'],
     hobbies: ['Soccer', 'Marvel', 'Astronomy'],
     music: ['Guitar', 'Piano'],
