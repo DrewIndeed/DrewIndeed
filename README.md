@@ -32,11 +32,11 @@ const WhoIAm: Developer = {
     name: 'Le Nguyen Truong An',  
     
     education: 'Bachelor of Software Engineering',
-    company: 'New Ocean Inc. - Information System',
-    current_role: 'Frontend Developer Intern',
+    company: 'Tiki Corporation - Digital Services',
+    current_role: 'Frontend Engineer Intern',
     location: 'Ho Chi Minh, Vietnam',
     
-    technical_background: ['HTML/CSS/JS Web Development', 'UI/UX Design', 'ReactJS', 'React Native', 'NextJS'],
+    technical_background: ['HTML/CSS', 'JavaScript ES5/ES6/ES7', 'TypeScript', 'UI/UX Design', 'ReactJS', 'React Native', 'NextJS'],
     technical_interests: ['Real-Time Systems', 'DevOps', 'Only-CSS Effects'],
     hobbies: ['Soccer', 'Marvel', 'Astronomy'],
     music: ['Guitar', 'Piano'],
@@ -44,7 +44,7 @@ const WhoIAm: Developer = {
     
     learning: {
         _caution: 'An endless list for sure so will try to make it neat',
-        currently: ['GraphQL', 'Swift 5']
+        currently: ['GraphQL', 'Swift 5 & SwiftUI', 'Docker']
     }
 }
 ```
