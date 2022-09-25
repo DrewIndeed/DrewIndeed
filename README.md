@@ -44,7 +44,7 @@ const WhoIAm: Developer = {
     
     learning: {
         _caution: 'An endless list for sure so will try to make it neat',
-        currently: ['GraphQL', 'Swift 5 & SwiftUI', 'Docker']
+        currently: ['Docker', 'Redis', 'Kafka']
     }
 }
 ```
