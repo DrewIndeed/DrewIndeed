@@ -9,7 +9,7 @@ svg) -->
 
 <div align="center">
     
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=368&section=header&text=Hi,%20I'm%20Andrew%20🙋🏻‍♂️&fontSize=90&animation=fadeIn&fontAlignY=36&desc=JavaScript%20Programmer%20•%20Frontend%20Developer&descAlignY=55&descAlign=65)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=368&section=header&text=Hi,%20I'm%20Andrew%20🙋‍♂️🇻🇳&fontSize=90&animation=fadeIn&fontAlignY=36&desc=Frontend%20Software%20Engineer%20•%20JavaScript%20Addict%20&descAlignY=55&descAlign=65)
 
 </div>
 
@@ -36,7 +36,7 @@ export const DREW_INDEED = {
     },
     education: {
         school: 'RMIT University Vietnam - Saigon Campus',
-        major: 'Bachelor of Software Engineering'
+        major: 'Bachelor of Software Engineering',
         year: '4th',
    },
     currentExperience: {
@@ -55,6 +55,7 @@ export const DREW_INDEED = {
             'NextJS'
         ],
         interests: [
+            'Blockchain'
             'Real-Time Systems',       
             'DevOps',
         ]
@@ -119,7 +120,7 @@ export const DREW_INDEED = {
 
 <div align="center">
     
-[![My last 31 days](https://activity-graph.herokuapp.com/graph?username=drewindeed&custom_title=My%20Last%2031%20Days&hide_border=false&bg_color=0d0c14&color=f5d545&line=03ffee&point=03ff18&radius=8)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!-- [![My last 31 days](https://activity-graph.herokuapp.com/graph?username=drewindeed&custom_title=My%20Last%2031%20Days&hide_border=false&bg_color=0d0c14&color=f5d545&line=03ffee&point=03ff18&radius=8)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
     
 <p align="center">
 <a href="https://github.com/DrewIndeed">
