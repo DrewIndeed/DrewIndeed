@@ -3,7 +3,7 @@ svg) -->
 
 <div align="right">
     
-***Try to change my gradient colors by refreshing ^^***
+***Try to change my gradient colors by refreshing the browser ^^***
     
 </div>
 
@@ -27,25 +27,39 @@ svg) -->
     
 </div>
     
-```typescript
-const WhoIAm: Developer = {
-    name: 'Le Nguyen Truong An',  
-    
-    education: 'Bachelor of Software Engineering',
-    company: 'Tiki Corporation - Digital Services',
-    current_role: 'Frontend Engineer Intern',
-    location: 'Ho Chi Minh, Vietnam',
-    
-    technical_background: ['HTML/CSS', 'JavaScript ES5/ES6/ES7', 'TypeScript', 'UI/UX Design', 'ReactJS', 'React Native', 'NextJS'],
-    technical_interests: ['Real-Time Systems', 'DevOps', 'Only-CSS Effects'],
-    hobbies: ['Soccer', 'Marvel', 'Astronomy'],
-    music: ['Guitar', 'Piano'],
-    fuel: 'Coffee ☕️ for life',
-    
-    learning: {
-        _caution: 'An endless list for sure so will try to make it neat',
-        currently: ['Docker', 'Redis', 'Kafka']
-    }
+```javascript
+export const DREW_INDEED = {
+    basic: {
+        fullname: 'Le Nguyen Truong An',  
+        age: 21,
+        location: 'Ho Chi Minh, Vietnam',
+    },
+    education: {
+        school: 'RMIT University Vietnam - Saigon Campus',
+        major: 'Bachelor of Software Engineering'
+        year: '4th',
+   },
+    currentExperience: {
+        company: 'Tiki Corporation',
+        team: 'Digital Services',
+        role: 'Frontend Engineer Intern',
+    },
+    technical: {
+        skills: [
+            'HTML/CSS', 
+            'JavaScript ES5/ES6/ES7', 
+            'TypeScript', 
+            'UI/UX Design', 
+            'ReactJS', 
+            'React Native', 
+            'NextJS'
+        ],
+        interests: [
+            'Real-Time Systems',       
+            'DevOps',
+        ]
+    },
+    hobbies: [ ... ENDLESS_HOBBIES, 'astronomy', 'soccer' ]
 }
 ```
 <br>
