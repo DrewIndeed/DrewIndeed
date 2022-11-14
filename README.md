@@ -51,7 +51,6 @@ export const DREW_INDEED = {
             'TypeScript', 
             'UI/UX Design', 
             'ReactJS', 
-            'React Native', 
             'NextJS'
         ],
         interests: [
