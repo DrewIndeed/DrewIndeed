@@ -119,7 +119,7 @@ export const DREW_INDEED = {
 
 <div align="center">
     
-[![Check out my 1-month activities](https://activity-graph.herokuapp.com/graph?username=drewindeed&custom_title=Check%20Out%20My%2031-Day%20Activities&hide_border=false&bg_color=0d0c14&color=f5d545&line=03ffee&point=03ff18&radius=8)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!-- [![Check out my 1-month activities](https://activity-graph.herokuapp.com/graph?username=drewindeed&custom_title=Check%20Out%20My%2031-Day%20Activities&hide_border=false&bg_color=0d0c14&color=f5d545&line=03ffee&point=03ff18&radius=8)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
     
 <p align="center">
 <a href="https://github.com/DrewIndeed">
