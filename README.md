@@ -3,13 +3,15 @@ svg) -->
 
 <div align="right">
     
-***Here to grow together***
+***Coding fellow! We are here to stay! Let's grow together!***
     
 </div>
 
 <div align="center">
     
 ![header](https://capsule-render.vercel.app/api?type=waving&fontColor=ffffff&color=21:9933b3,60:ec3232,100:eea203&height=368&section=header&text=Hi,%20I'm%20Andrew%20🚀&fontSize=90&animation=fadeIn&fontAlignY=36&desc=Software%20Engineer%20•%20More%20than%202%20years%20in%20Front-End%20Development%20&animation=fadeIn&descAlignY=55&descAlign=50)
+    
+<p>Put it on and you're welcome: https://www.youtube.com/watch?v=SKXPmV3L3Jo</p>
 
 </div>
 
