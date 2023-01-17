@@ -45,13 +45,13 @@ svg) -->
 
 <div align="right">
     
-***I have worked with***
+***Under the belt***
     
 </div>
     
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,aws,bootstrap,c,cpp,codepen,html,css,django,dynamodb,docker,express,figma,firebase,gcp,git,graphql,heroku,idea,java,js,jquery,mongodb,mysql,nextjs,nodejs,php,postgres,py,react,redis,redux,sass,tailwind,ts,vscode&perline=12" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,sass,tailwind,nodejs,androidstudio,aws,bootstrap,c,cpp,codepen,django,dynamodb,docker,express,figma,firebase,gcp,git,graphql,heroku,idea,java,jquery,mongodb,mysql,php,postgres,py,redis,vscode&perline=12" />
   </a>
 </p>
 
@@ -110,7 +110,7 @@ export const DREW_INDEED = {
         major: 'Bachelor of Software Engineering',
         year: '4th',
    },
-    currentExperience: {
+    currentWork: {
         company: 'Tiki Corporation',
         team: 'Digital Services',
         role: 'Frontend Engineer',
