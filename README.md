@@ -3,7 +3,7 @@ svg) -->
 
 <div align="right">
     
-***Coding fellow! We are here to stay! Let's grow together!***
+***Coding fellows! We are here to stay! Let's grow together!***
     
 </div>
 
