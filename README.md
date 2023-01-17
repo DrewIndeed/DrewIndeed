@@ -3,13 +3,13 @@ svg) -->
 
 <div align="right">
     
-***Try to change my gradient colors by refreshing the browser ^^***
+***Here to grow together***
     
 </div>
 
 <div align="center">
     
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=368&section=header&text=Hi,%20I'm%20Andrew%20🙋‍♂️🇻🇳&fontSize=90&animation=fadeIn&fontAlignY=36&desc=Frontend%20Software%20Engineer%20•%20JavaScript%20Addict%20&descAlignY=55&descAlign=65)
+![header](https://capsule-render.vercel.app/api?type=waving&fontColor=ffffff&color=21:9933b3,60:ec3232,100:eea203&height=368&section=header&text=Hi,%20I'm%20Andrew%20🚀&fontSize=90&animation=fadeIn&fontAlignY=36&desc=Software%20Engineer%20•%20More%20than%202%20years%20in%20Front-End%20Development%20&animation=fadeIn&descAlignY=55&descAlign=50)
 
 </div>
 
@@ -17,58 +17,7 @@ svg) -->
 
 <hr>
 
-> “Success is getting what you want, happiness is wanting what you get.” ― W. P. Kinsella
-
-<br>
-
-<div align="right">
-    
-***A little bit about me***
-    
-</div>
-    
-```javascript
-export const DREW_INDEED = {
-    basic: {
-        fullname: 'Le Nguyen Truong An',  
-        age: 21,
-        location: 'Ho Chi Minh, Vietnam',
-    },
-    education: {
-        school: 'RMIT University Vietnam - Saigon Campus',
-        major: 'Bachelor of Software Engineering',
-        year: '4th',
-   },
-    currentExperience: {
-        company: 'Tiki Corporation',
-        team: 'Digital Services',
-        role: 'Frontend Engineer Intern',
-    },
-    technical: {
-        skills: [
-            'HTML/CSS', 
-            'JavaScript ES5/ES6/ES7', 
-            'TypeScript', 
-            'UI/UX Design', 
-            'ReactJS', 
-            'NextJS'
-        ],
-        interests: [
-            'Blockchain'
-            'Real-Time Systems',       
-            'DevOps',
-        ]
-    },
-    hobbies: [ ... ENDLESS_HOBBIES, 'astronomy', 'soccer' ]
-}
-```
-<br>
-
-<hr>
-
-> “To ignite your life you must focus on one thing long enough for it to catch fire.” - Gary W. Keller
-    
-<br>   
+> “Don’t let the noise of others’ opinions drown out your own inner voice.” - Steve Jobs
 
 <div align="right">
     
@@ -106,7 +55,7 @@ export const DREW_INDEED = {
 
 <hr>
 
-> “Don’t let the noise of others’ opinions drown out your own inner voice.” - Steve Jobs
+> “To ignite your life you must focus on one thing long enough for it to catch fire.” - Gary W. Keller
 
 <br>
 
@@ -133,7 +82,55 @@ export const DREW_INDEED = {
 [![DrewIndeed's github trophy](https://github-profile-trophy.vercel.app/?username=drewindeed&column=4&margin-w=15&margin-h=15&theme=juicyfresh&title=Commits,PullRequest,Repositories,Followers)]([https://github.com/ryo-ma/github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy))
 
 </div>
+
+<hr>
+
+> “Success is getting what you want, happiness is wanting what you get.” ― W. P. Kinsella
+
+<br>
+
+
+<div align="right">
     
+***A little bit about me***
+    
+</div>
+    
+```javascript
+export const DREW_INDEED = {
+    basic: {
+        fullname: 'Le Nguyen Truong An',  
+        age: 21,
+        location: 'Ho Chi Minh, Vietnam',
+    },
+    education: {
+        school: 'RMIT University Vietnam - Saigon Campus',
+        major: 'Bachelor of Software Engineering',
+        year: '4th',
+   },
+    currentExperience: {
+        company: 'Tiki Corporation',
+        team: 'Digital Services',
+        role: 'Frontend Engineer',
+    },
+    technical: {
+        skills: [
+            'HTML/CSS', 
+            'JavaScript ES5/ES6/ES7', 
+            'TypeScript', 
+            'UI/UX Design', 
+            'ReactJS', 
+            'NextJS'
+        ],
+        interests: [
+            'Blockchain'
+            'Real-Time Systems',       
+            'DevOps',
+        ]
+    },
+    hobbies: [ ... ENDLESS_HOBBIES, 'astronomy', 'soccer ⚽️' ]
+}
+``` 
 <br>
 
 
