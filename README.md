@@ -75,7 +75,7 @@ svg) -->
 <p align="center">
 <a href="https://github.com/DrewIndeed">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=drewindeed&show_icons=true&include_all_commits=true&count_private=true&bg_color=0d0c14&title_color=f5d545&text_color=fff"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=drewindeed&layout=compact&langs_count=7&bg_color=0d0c14&title_color=f5d545&text_color=fff&exclude_repo=TeleFix,OOP_20201B,cosc2657-android-development,spring-data-jpa-tutorial&hide=java"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=drewindeed&layout=compact&langs_count=7&bg_color=0d0c14&title_color=f5d545&text_color=fff&exclude_repo=TeleFix,OOP_20201B,cosc2657-android-development,spring-data-jpa-tutorial&hide=java,swift"/>
 </a>
 </p>
 
