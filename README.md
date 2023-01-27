@@ -51,7 +51,7 @@ svg) -->
     
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,sass,tailwind,nodejs,androidstudio,aws,bootstrap,c,cpp,codepen,django,dynamodb,docker,express,figma,firebase,gcp,git,graphql,heroku,idea,java,jquery,mongodb,mysql,php,postgres,py,redis,vscode&perline=12" />
+    <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,c,cpp,java,py,php,js,jquery,ts,nodejs,express,react,vite,redux,nextjs,graphql,mongodb,mysql,postgres,redis,gcp,firebase,supabase,aws,docker,webpack,vercel,heroku,figma&perline=11" />
   </a>
 </p>
 
