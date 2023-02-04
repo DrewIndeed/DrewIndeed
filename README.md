@@ -112,8 +112,8 @@ export const DREW_INDEED = {
    },
     currentWork: {
         company: 'Tiki Corporation',
-        team: 'Digital Services',
-        role: 'Frontend Engineer',
+        team: 'Digital Services (DIGI)',
+        role: 'Software Engineer',
     },
     technical: {
         skills: [
@@ -125,9 +125,8 @@ export const DREW_INDEED = {
             'NextJS'
         ],
         interests: [
-            'Blockchain'
-            'Real-Time Systems',       
-            'DevOps',
+            'Blockchain'      
+            'Ancient Technology',
         ]
     },
     hobbies: [ ... ENDLESS_HOBBIES, 'astronomy', 'soccer ⚽️' ]
