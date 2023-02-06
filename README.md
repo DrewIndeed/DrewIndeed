@@ -81,7 +81,7 @@ svg) -->
 
 <br>
     
-[![DrewIndeed's github trophy](https://github-profile-trophy.vercel.app/?username=drewindeed&column=4&margin-w=15&margin-h=15&theme=juicyfresh&title=Commits,PullRequest,Repositories,Followers)]([https://github.com/ryo-ma/github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy))
+<!-- [![DrewIndeed's github trophy](https://github-profile-trophy.vercel.app/?username=drewindeed&column=4&margin-w=15&margin-h=15&theme=juicyfresh&title=Commits,PullRequest,Repositories,Followers)]([https://github.com/ryo-ma/github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy)) -->
 
 </div>
 
@@ -99,7 +99,7 @@ svg) -->
 </div>
     
 ```javascript
-export const DREW_INDEED = {
+let me = {
     basic: {
         fullname: 'Le Nguyen Truong An',  
         age: 21,
@@ -115,20 +115,10 @@ export const DREW_INDEED = {
         team: 'Digital Services (DIGI)',
         role: 'Software Engineer',
     },
-    technical: {
-        skills: [
-            'HTML/CSS', 
-            'JavaScript ES5/ES6/ES7', 
-            'TypeScript', 
-            'UI/UX Design', 
-            'ReactJS', 
-            'NextJS'
-        ],
-        interests: [
-            'Blockchain'      
-            'Ancient Technology',
-        ]
-    },
+    interests: [
+        'Blockchain'      
+        'Ancient Technology',
+    ],
     hobbies: [ ... ENDLESS_HOBBIES, 'astronomy', 'soccer ⚽️' ]
 }
 ``` 
