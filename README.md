@@ -9,32 +9,9 @@ svg) -->
 
 <div align="center">
     
-![header](https://capsule-render.vercel.app/api?type=waving&fontColor=ffffff&color=21:9933b3,60:ec3232,100:eea203&height=368&section=header&text=Hi,%20I'm%20Andrew%20🚀&fontSize=90&animation=fadeIn&fontAlignY=36&desc=Software%20Engineer%20•%20More%20than%202%20years%20in%20Front%20End%20Development%20&animation=fadeIn&descAlignY=55&descAlign=50)
+![header](https://capsule-render.vercel.app/api?type=waving&fontColor=000000&color=21:7d7af7,60:fb4949,100:f5c567&height=368&section=header&text=Xin%20chao,%20I'm%20Andrew%20💁‍♂️&fontSize=65&animation=fadeIn&fontAlignY=36&desc=Still%20trying%20to%20explore%20the%20crazy%20world%20of%20software%20to%20its%20farest%20horizon&animation=fadeIn&descAlignY=50&descAlign=53)
     
-<p>Put it on and you're welcome: https://www.youtube.com/watch?v=SKXPmV3L3Jo</p>
 
-</div>
-
-<br>
-
-<hr>
-
-> “Don’t let the noise of others’ opinions drown out your own inner voice.” - Steve Jobs
-
-<div align="right">
-    
-***My major skills***
-    
-</div>
-
-<div align="center">
-   
-<img src="https://media3.giphy.com/media/XAxylRMCdpbEWUAvr8/200w.webp" width="100">
-<img src="https://media3.giphy.com/media/fsEaZldNC8A1PJ3mwp/200w.webp" width="100">
-<img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100">
-<img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100">
-<img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/200w.webp" width="100">
-    
 </div>
 
 <hr>
@@ -54,6 +31,27 @@ svg) -->
     <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,c,cpp,java,py,php,js,jquery,ts,nodejs,express,react,vite,redux,nextjs,graphql,mongodb,mysql,postgres,redis,gcp,firebase,supabase,aws,docker,webpack,vercel,heroku,figma&perline=11" />
   </a>
 </p>
+
+<hr>
+
+> “Don’t let the noise of others’ opinions drown out your own inner voice.” - Steve Jobs
+
+<div align="right">
+
+    
+***My major skills***
+    
+</div>
+
+<div align="center">
+   
+<img src="https://media3.giphy.com/media/XAxylRMCdpbEWUAvr8/200w.webp" width="100">
+<img src="https://media3.giphy.com/media/fsEaZldNC8A1PJ3mwp/200w.webp" width="100">
+<img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100">
+<img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100">
+<img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/200w.webp" width="100">
+    
+</div>
 
 <hr>
 
@@ -89,41 +87,12 @@ svg) -->
 
 > “Success is getting what you want, happiness is wanting what you get.” ― W. P. Kinsella
 
-<br>
+<div align="center">
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=usandrewle24265&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=usandrewle24265)
 
 
-<div align="right">
-    
-***A little bit about me***
-    
-</div>
-    
-```javascript
-let me = {
-    basic: {
-        fullname: 'Le Nguyen Truong An',  
-        age: 21,
-        location: 'Ho Chi Minh, Vietnam',
-    },
-    education: {
-        school: 'RMIT University Vietnam - Saigon Campus',
-        major: 'Bachelor of Software Engineering',
-        year: '4th',
-   },
-    currentWork: {
-        company: 'Tiki Corporation',
-        team: 'Digital Services (DIGI)',
-        role: 'Software Engineer',
-    },
-    interests: [
-        'Blockchain'      
-        'Ancient Technology',
-    ],
-    hobbies: [ ... ENDLESS_HOBBIES, 'astronomy', 'soccer ⚽️' ]
-}
-``` 
-<br>
-
+<div/>
 
 <div align="center">
     
