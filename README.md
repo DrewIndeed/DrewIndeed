@@ -9,7 +9,7 @@ svg) -->
 
 <div align="center">
     
-![header](https://capsule-render.vercel.app/api?type=waving&fontColor=000000&color=21:7d7af7,60:fb4949,100:f5c567&height=368&section=header&text=Hi,%20I'm%20Andrew%20Le%20🤟🏻&fontSize=65&animation=fadeIn&fontAlignY=36&desc=I'm%20a%20developer,%20a%20soccer%20addict%20and%20tech%20enthusiast.&animation=fadeIn&descAlignY=50&descAlign=53)
+![header](https://capsule-render.vercel.app/api?type=waving&fontColor=000000&color=21:7d7af7,60:fb4949,100:f5c567&height=368&section=header&text=Hi,%20I'm%20Andrew%20Le%20🤟🏻&fontSize=65&fontAlignY=36&desc=I'm%20a%20developer,%20a%20soccer%20addict%20and%20tech%20enthusiast.&animation=fadeIn&descAlignY=50&descAlign=53)
     
 
 </div>
