@@ -9,7 +9,7 @@ svg) -->
 
 <div align="center">
     
-![header](https://capsule-render.vercel.app/api?type=waving&fontColor=000000&color=21:7d7af7,60:fb4949,100:f5c567&height=368&section=header&text=Hi,%20I'm%20Andrew%20Le%20🤟🏻&fontSize=65&fontAlignY=36&desc=I'm%20a%20developer,%20a%20soccer%20addict%20and%20tech%20enthusiast.&animation=fadeIn&descAlignY=50&descAlign=53)
+![header](https://capsule-render.vercel.app/api?type=waving&fontColor=000000&color=21:7d7af7,60:fb4949,100:f5c567&height=368&section=header&text=Hi,%20I'm%20Andrew%20🤟🏻&fontSize=65&fontAlignY=36&desc=An%20enthusiastic%20developer,%20and%20a%20soccer%20addict.&animation=fadeIn&descAlignY=50&descAlign=53)
     
 
 </div>
@@ -28,7 +28,7 @@ svg) -->
     
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,c,cpp,java,py,php,js,jquery,ts,nodejs,express,react,vite,redux,nextjs,graphql,mongodb,mysql,postgres,redis,gcp,firebase,supabase,aws,docker,webpack,vercel,heroku,figma&perline=11" />
+    <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,c,cpp,java,py,js,ts,jquery,ts,nodejs,express,react,vite,redux,nextjs,graphql,mongodb,mysql,postgres,redis,gcp,firebase,supabase,aws,docker,webpack,vercel,heroku,figma&perline=11" />
   </a>
 </p>
 
@@ -86,15 +86,6 @@ svg) -->
 <hr>
 
 > “Success is getting what you want, happiness is wanting what you get.” ― W. P. Kinsella
-
-<div align="center">
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=usandrewle24265&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=usandrewle24265)
-
-
-<div/>
-
-<div align="center">
     
 ***...***
     
