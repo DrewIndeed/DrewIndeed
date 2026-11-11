@@ -1,8 +1,8 @@
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/header-v2-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/header-v2-light.svg">
-    <img src="assets/header-v2-light.svg" width="1280" height="480" alt="Andrew Le Nguyen, frontend engineer in Vietnam.">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/header-v3-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/header-v3-light.svg">
+    <img src="assets/header-v3-light.svg" width="1280" alt="Andrew Le Nguyen, frontend engineer in Vietnam.">
   </picture>
 </div>
 
@@ -14,21 +14,15 @@ I'm a senior front-end engineer at G.B.G Group Services. Before that I was at TI
 
 **[Pingdue](https://pingdue.vercel.app)** — Invoice reminders that sound like you. Friendly, then firm, then final, and they stop the moment the invoice is marked paid.
 
-<a href="https://pingdue.vercel.app"><img src="assets/showcase/pingdue.jpg" alt="Pingdue homepage: the headline The follow-up should sound like you, beside a Friendly-tone invoice reminder letter." width="1440" height="900"></a>
+<a href="https://pingdue.vercel.app"><img src="assets/showcase/pingdue.jpg" alt="Pingdue homepage: the headline The follow-up should sound like you, beside a Friendly-tone invoice reminder letter." width="1440" height="720"></a>
 
 Next.js · TypeScript · Tailwind CSS · Auth.js · [Live](https://pingdue.vercel.app)
 
 **[Practice Fork](https://practice-fork.vercel.app)** — Paste a tutorial. The concepts stay, the problem changes, and the score is whether the idea transferred — not whether you typed along.
 
-<a href="https://practice-fork.vercel.app"><img src="assets/showcase/practice-fork.jpg" alt="Practice Fork homepage: the headline You finished the tutorial. Now fork a different one, and a form to paste a tutorial URL." width="1440" height="900"></a>
+<a href="https://practice-fork.vercel.app"><img src="assets/showcase/practice-fork.jpg" alt="Practice Fork homepage: the headline You finished the tutorial. Now fork a different one, and a form to paste a tutorial URL." width="1440" height="720"></a>
 
 Next.js · TypeScript · Tailwind CSS · AI SDK · [Live](https://practice-fork.vercel.app)
-
-**[Personal site](https://andrewlenguyen-site.vercel.app)** — Fixed-scope Next.js landing pages for founders.
-
-<a href="https://andrewlenguyen-site.vercel.app"><img src="assets/showcase/andrewlenguyen-site.jpg" alt="Andrew Le Nguyen’s site: the headline Your launch page, shipped in 7 days." width="1440" height="900"></a>
-
-Next.js · TypeScript · Tailwind CSS · [Live](https://andrewlenguyen-site.vercel.app)
 
 ## Featured work
 
