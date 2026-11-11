@@ -1,92 +1,43 @@
-<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?width=800&color=00e02d&lines=Hi+I'm+Andrew.+Let's+grow+together!+👨‍💻)](https://git.io/typing-
-svg) -->
-
-<div align="right">
-    
-***Coding fellows! We are here to stay!***
-    
-</div>
-
 <div align="center">
-    
-![header](https://capsule-render.vercel.app/api?type=waving&fontColor=000000&color=21:7d7af7,60:fb4949,100:f5c567&height=368&section=header&text=Hi,%20I'm%20Andrew%20🤟🏻&fontSize=65&fontAlignY=36&desc=An%20enthusiastic%20developer,%20and%20a%20soccer%20addict.&animation=fadeIn&descAlignY=50&descAlign=53)
-    
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg">
+    <img src="assets/header-light.svg" alt="Andrew Le Nguyen, frontend engineer in Vietnam. The a-n monogram uses a square text caret in place of the letter l." width="1280">
+  </picture>
 </div>
 
-<hr>
+I'm a frontend engineer in Vietnam (UTC+7). I build production interfaces in React and Next.js — the architecture, the rendering performance, and the parts people actually touch.
 
-> "When something is important enough, you do it even if the odds are not in your favor." - Elon Musk
+I'm a senior front-end engineer at G.B.G Group Services, working on [Gigsberg](https://www.gigsberg.com/), a ticket marketplace. Before that I was at TIKI Corporation. I also take a small number of [fixed-scope Next.js landing pages](https://andrewlenguyen-site.vercel.app) for founders.
 
-<br>
+## Now building
 
-<div align="right">
-    
-***Under the belt***
-    
-</div>
-    
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,c,cpp,java,py,js,ts,jquery,php,nodejs,express,react,vite,redux,nextjs,graphql,mongodb,mysql,postgres,redis,gcp,firebase,supabase,aws,docker,webpack,vercel,heroku,figma&perline=11" />
-  </a>
-</p>
+- **[Pingdue](https://pingdue.vercel.app)** — Invoice reminders that sound like you. Friendly, then firm, then final, and they stop the moment the invoice is marked paid.
+- **[Practice Fork](https://practice-fork.vercel.app)** — Paste a tutorial. The concepts stay, the problem changes, and the score is whether the idea transferred — not whether you typed along.
 
-<hr>
+## Featured work
 
-> “Don’t let the noise of others’ opinions drown out your own inner voice.” - Steve Jobs
+Public repositories, including the ones pinned on this profile.
 
-<div align="right">
+| Project | What it is |
+| --- | --- |
+| **[vite-konva-booking-map-2023](https://github.com/DrewIndeed/vite-konva-booking-map-2023)** | A React module for event booking maps: sections, seats, and live seat status, built with Konva. |
+| **[vite-tripcy-closet-2023](https://github.com/DrewIndeed/vite-tripcy-closet-2023)** · [Live](https://vite-tripcy-closet-2023.vercel.app) | A fashion-studio site built with Vite. The 2023 build measured 100/100 on Lighthouse. |
+| **[nextjs13-ai-saas-2023](https://github.com/DrewIndeed/nextjs13-ai-saas-2023)** | An AI SaaS tool built with Next.js 13 and shadcn/ui. |
+| **[vite-giphy-2023](https://github.com/DrewIndeed/vite-giphy-2023)** · [Live](https://vite-giphy-2023.vercel.app) | A GIPHY explorer built with Vite and TypeScript. |
 
-    
-***My major skills***
-    
-</div>
+Also pinned: [MavenBond/mavenbond-frontend](https://github.com/MavenBond/mavenbond-frontend) and [rmit-enterprise-development/scrumified-frontend](https://github.com/rmit-enterprise-development/scrumified-frontend).
 
-<div align="center">
-   
-<img src="https://media3.giphy.com/media/XAxylRMCdpbEWUAvr8/200w.webp" width="100">
-<img src="https://media3.giphy.com/media/fsEaZldNC8A1PJ3mwp/200w.webp" width="100">
-<img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100">
-<img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100">
-<img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/200w.webp" width="100">
-    
+## Stack
+
+<div>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/stack-light.svg">
+    <img src="assets/stack-light.svg" alt="Production tools: TypeScript, React, Next.js, Tailwind CSS, TanStack Query, SWR, GraphQL, Vite, and Vercel." width="800">
+  </picture>
 </div>
 
-<hr>
+## Contact
 
-> “To ignite your life you must focus on one thing long enough for it to catch fire.” - Gary W. Keller
-
-<br>
-
-<div align="right">
-    
-***My GitHub stats***
-    
-</div>
-
-
-<div align="center">
-    
-<!-- [![Check out my 1-month activities](https://activity-graph.herokuapp.com/graph?username=drewindeed&custom_title=Check%20Out%20My%2031-Day%20Activities&hide_border=false&bg_color=0d0c14&color=f5d545&line=03ffee&point=03ff18&radius=8)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
-    
-<p align="center">
-<a href="https://github.com/DrewIndeed">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=drewindeed&show_icons=true&include_all_commits=true&count_private=true&bg_color=0d0c14&title_color=f5d545&text_color=fff"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=drewindeed&layout=compact&langs_count=7&bg_color=0d0c14&title_color=f5d545&text_color=fff&exclude_repo=TeleFix,OOP_20201B,cosc2657-android-development,spring-data-jpa-tutorial&hide=java,swift"/>
-</a>
-</p>
-
-<br>
-    
-<!-- [![DrewIndeed's github trophy](https://github-profile-trophy.vercel.app/?username=drewindeed&column=4&margin-w=15&margin-h=15&theme=juicyfresh&title=Commits,PullRequest,Repositories,Followers)]([https://github.com/ryo-ma/github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy)) -->
-
-</div>
-
-<hr>
-
-> “Success is getting what you want, happiness is wanting what you get.” ― W. P. Kinsella
-    
-***...***
-    
-</div>
+[anle.drewindeed@gmail.com](mailto:anle.drewindeed@gmail.com) · [LinkedIn](https://www.linkedin.com/in/truonganln) · [Site](https://andrewlenguyen-site.vercel.app)
