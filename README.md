@@ -1,71 +1,45 @@
-<div align="center">
+<a href="https://andrewlenguyen-site.vercel.app">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/header-v3-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/header-v3-light.svg">
-    <img src="assets/header-v3-light.svg" width="1280" alt="Andrew Le Nguyen, frontend engineer in Vietnam.">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.png">
+    <img src="assets/banner-light.png" width="100%" alt="Andrew Le Nguyen. Frontend engineer in Vietnam. A contour map with a seven-day trail from Day 1 intake to Day 7 live at the summit.">
   </picture>
-</div>
+</a>
 
-I'm a frontend engineer in Vietnam (UTC+7). I build production interfaces in React and Next.js — the architecture, the rendering performance, and the parts people actually touch.
+### Every launch is a seven-day climb.
 
-I'm a senior front-end engineer at G.B.G Group Services. Before that I was at TIKI Corporation. I also take a small number of [fixed-scope Next.js landing pages](https://andrewlenguyen-site.vercel.app) for founders.
+I'm a frontend engineer in Vietnam (UTC+7) with 5+ years of production React and Next.js. Day job: senior front-end engineer at G.B.G. On the side I take a few fixed-scope launch pages for founders: one scope, one price, one revision, live in 5–7 days.
 
-## Now building
+**D1** Intake &nbsp;→&nbsp; **D2** Wireframe &nbsp;→&nbsp; **D3–5** Build &nbsp;→&nbsp; **D6** Revision &nbsp;→&nbsp; **D7** Live
 
-**[Pingdue](https://pingdue.vercel.app)** — Invoice reminders that sound like you. Friendly, then firm, then final, and they stop the moment the invoice is marked paid.
+<br>
 
-<a href="https://pingdue.vercel.app"><img src="assets/showcase/pingdue.jpg" alt="Pingdue homepage: the headline The follow-up should sound like you, beside a Friendly-tone invoice reminder letter." width="1440" height="720"></a>
+#### Selected work
 
-Next.js · TypeScript · Tailwind CSS · Auth.js · [Live](https://pingdue.vercel.app)
+**01 &nbsp; [This site](https://andrewlenguyen-site.vercel.app/work/this-site)**<br>
+<sub>Case study · Next.js</sub><br>
+The portfolio is the sample: the fixed-scope offer, the build receipt and the 7-day process, all in one page.
 
-**[Practice Fork](https://practice-fork.vercel.app)** — Paste a tutorial. The concepts stay, the problem changes, and the score is whether the idea transferred — not whether you typed along.
+**02 &nbsp; [LG × VALORANT Booking](https://andrewlenguyen-site.vercel.app/resume#projects)**<br>
+<sub>Freelance · 2024 · Vite, TypeScript, Node.js</sub><br>
+Seat booking for LG × VALORANT gaming rooms. I led the front-end team on the player booking page and the whole admin dashboard, which also works as the CMS.
 
-<a href="https://practice-fork.vercel.app"><img src="assets/showcase/practice-fork.jpg" alt="Practice Fork homepage: the headline You finished the tutorial. Now fork a different one, and a form to paste a tutorial URL." width="1440" height="720"></a>
+**03 &nbsp; [Tripcy Closet](https://andrewlenguyen-site.vercel.app/resume#projects)**<br>
+<sub>Freelance · 2023 · Landing page</sub><br>
+A landing page for a Vietnamese clothing brand, with careful image processing and motion. It scored 100/100 on Lighthouse.
 
-Next.js · TypeScript · Tailwind CSS · AI SDK · [Live](https://practice-fork.vercel.app)
+**04 &nbsp; [Relay](https://andrewlenguyen-site.vercel.app/work/relay)**<br>
+<sub>Self-initiated concept · Next.js</sub><br>
+A landing page for an AI support agent: the brief, the constraints and every decision, written up as a case study.
 
-## Featured work
+<br>
 
-**01  Event booking map** — Sections, seats, and live seat status, drawn in Konva.
-[Repository](https://github.com/DrewIndeed/vite-konva-booking-map-2023)
+#### Stack
 
-**02  Tripcy Closet** — A fashion-studio site. The 2023 build measured 100/100 on Lighthouse.
-[Repository](https://github.com/DrewIndeed/vite-tripcy-closet-2023) · [Live](https://vite-tripcy-closet-2023.vercel.app)
+TypeScript, React, Next.js (App Router), TanStack Query, TanStack Virtual, GraphQL, Tailwind CSS, Vite and Vercel.
 
-**03  AI SaaS tool** — An AI SaaS tool built with Next.js 13 and shadcn/ui.
-[Repository](https://github.com/DrewIndeed/nextjs13-ai-saas-2023)
+<br>
 
-**04  GIPHY explorer** — A GIPHY explorer built with Vite and TypeScript.
-[Repository](https://github.com/DrewIndeed/vite-giphy-2023) · [Live](https://vite-giphy-2023.vercel.app)
+#### Start a project
 
-Also public: [MavenBond/mavenbond-frontend](https://github.com/MavenBond/mavenbond-frontend) and [rmit-enterprise-development/scrumified-frontend](https://github.com/rmit-enterprise-development/scrumified-frontend).
-
-## Stack
-
-TypeScript · React · Next.js · Tailwind CSS · TanStack Query · SWR · GraphQL · Vite · Vercel
-
-## Contact
-
-<p>
-  <a href="mailto:anle.drewindeed@gmail.com" title="Email Andrew Le Nguyen">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="assets/icon-mail-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="assets/icon-mail-light.svg">
-      <img src="assets/icon-mail-light.svg" alt="Email Andrew Le Nguyen" title="Email Andrew Le Nguyen" height="36" hspace="10">
-    </picture>
-  </a>
-  <a href="https://www.linkedin.com/in/truonganln" title="Andrew Le Nguyen on LinkedIn">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="assets/icon-linkedin-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="assets/icon-linkedin-light.svg">
-      <img src="assets/icon-linkedin-light.svg" alt="Andrew Le Nguyen on LinkedIn" title="Andrew Le Nguyen on LinkedIn" height="36" hspace="10">
-    </picture>
-  </a>
-  <a href="https://andrewlenguyen-site.vercel.app" title="Andrew Le Nguyen’s site">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="assets/icon-site-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="assets/icon-site-light.svg">
-      <img src="assets/icon-site-light.svg" alt="Andrew Le Nguyen’s site" title="Andrew Le Nguyen’s site" height="36" hspace="10">
-    </picture>
-  </a>
-</p>
+[**Send your page goal →**](https://andrewlenguyen-site.vercel.app/#contact) &nbsp;·&nbsp; [anle.drewindeed@gmail.com](mailto:anle.drewindeed@gmail.com) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/truonganln) &nbsp;·&nbsp; [Resume](https://andrewlenguyen-site.vercel.app/resume)
