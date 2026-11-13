@@ -2,15 +2,29 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png">
     <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.png">
-    <img src="assets/banner-light.png" width="100%" alt="Andrew Le Nguyen. Frontend engineer in Vietnam. A contour map with a seven-day trail from Day 1 intake to Day 7 live at the summit.">
+    <img src="assets/banner-light.png" width="100%" alt="Andrew Le Nguyen. Seven days. Then I go hiking. A contour map with a seven-day trail from Day 1 intake to Day 7 live at the summit.">
   </picture>
 </a>
 
-### Every launch is a seven-day climb.
+### Seven days. Then I go hiking.
 
-I'm a frontend engineer in Vietnam (UTC+7) with 5+ years of production React and Next.js. Day job: senior front-end engineer at G.B.G. On the side I take a few fixed-scope launch pages for founders: one scope, one price, one revision, live in 5–7 days.
+I trek mountains for fun and ship production React for a living: 5+ years, five product teams, now senior front-end engineer at G.B.G in Vietnam (UTC+7). On the side I take a few fixed-scope launch pages for founders: one scope, one price, one revision, live in 5–7 days.
 
 **D1** Intake &nbsp;→&nbsp; **D2** Wireframe &nbsp;→&nbsp; **D3–5** Build &nbsp;→&nbsp; **D6** Revision &nbsp;→&nbsp; **D7** Live
+
+<br>
+
+#### Now building
+
+**[Pingdue](https://pingdue.vercel.app)**: Invoice reminders that sound like you. Friendly, then firm, then final, and they stop the moment the invoice is marked paid.<br>
+Next.js · TypeScript · Tailwind CSS · Auth.js
+
+<a href="https://pingdue.vercel.app"><img src="assets/showcase/pingdue.jpg" width="100%" alt="Pingdue homepage: the headline The follow-up should sound like you, beside a Friendly-tone invoice reminder letter."></a>
+
+**[Practice Fork](https://practice-fork.vercel.app)**: Paste a tutorial. The concepts stay, the problem changes, and the score is whether the idea transferred, not whether you typed along.<br>
+Next.js · TypeScript · Tailwind CSS · AI SDK
+
+<a href="https://practice-fork.vercel.app"><img src="assets/showcase/practice-fork.jpg" width="100%" alt="Practice Fork homepage: the headline You finished the tutorial. Now fork a different one, and a form to paste a tutorial URL."></a>
 
 <br>
 
@@ -31,6 +45,24 @@ A landing page for a Vietnamese clothing brand, with careful image processing an
 **04 &nbsp; [Relay](https://andrewlenguyen-site.vercel.app/work/relay)**<br>
 Self-initiated concept · Next.js<br>
 A landing page for an AI support agent: the brief, the constraints and every decision, written up as a case study.
+
+**05 &nbsp; [Event booking map](https://github.com/DrewIndeed/vite-konva-booking-map-2023)**<br>
+Open source · Konva<br>
+Sections, seats, and live seat status, drawn in Konva.
+
+<br>
+
+#### Five themes, one site
+
+<a href="https://andrewlenguyen-site.vercel.app">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/themes-dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/themes-light.png">
+    <img src="assets/themes-light.png" width="100%" alt="The site's five themes: Tide, Ember and Aurora (dark), Salt and Glacier (light). The 3D A and ribbon change material with each one.">
+  </picture>
+</a>
+
+Tide is home. Hit the shuffle button on the site for Ember, Aurora, Salt or Glacier: the whole page and the 3D scene change together.
 
 <br>
 
