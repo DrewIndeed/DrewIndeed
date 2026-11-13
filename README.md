@@ -17,19 +17,19 @@ I'm a frontend engineer in Vietnam (UTC+7) with 5+ years of production React and
 #### Selected work
 
 **01 &nbsp; [This site](https://andrewlenguyen-site.vercel.app/work/this-site)**<br>
-<sub>Case study · Next.js</sub><br>
+Case study · Next.js<br>
 The portfolio is the sample: the fixed-scope offer, the build receipt and the 7-day process, all in one page.
 
 **02 &nbsp; [LG × VALORANT Booking](https://andrewlenguyen-site.vercel.app/resume#projects)**<br>
-<sub>Freelance · 2024 · Vite, TypeScript, Node.js</sub><br>
+Freelance · 2024 · Vite, TypeScript, Node.js<br>
 Seat booking for LG × VALORANT gaming rooms. I led the front-end team on the player booking page and the whole admin dashboard, which also works as the CMS.
 
 **03 &nbsp; [Tripcy Closet](https://andrewlenguyen-site.vercel.app/resume#projects)**<br>
-<sub>Freelance · 2023 · Landing page</sub><br>
+Freelance · 2023 · Landing page<br>
 A landing page for a Vietnamese clothing brand, with careful image processing and motion. It scored 100/100 on Lighthouse.
 
 **04 &nbsp; [Relay](https://andrewlenguyen-site.vercel.app/work/relay)**<br>
-<sub>Self-initiated concept · Next.js</sub><br>
+Self-initiated concept · Next.js<br>
 A landing page for an AI support agent: the brief, the constraints and every decision, written up as a case study.
 
 <br>
